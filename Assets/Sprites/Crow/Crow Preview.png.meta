@@ -1,0 +1,2745 @@
+fileFormatVersion: 2
+guid: 8dd58b4481229784c889a90d2a06679e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6833540004047391422
+    second: Crow Preview_0
+  - first:
+      213: 4222380833979314761
+    second: Crow Preview_1
+  - first:
+      213: 4885913980114390478
+    second: Crow Preview_2
+  - first:
+      213: -6843729877969657159
+    second: Crow Preview_3
+  - first:
+      213: -1658086442173026886
+    second: Crow Preview_4
+  - first:
+      213: 6995234134228366155
+    second: Crow Preview_5
+  - first:
+      213: 8319804931693432597
+    second: Crow Preview_6
+  - first:
+      213: -4803482760741268174
+    second: Crow Preview_7
+  - first:
+      213: 6042639492886242915
+    second: Crow Preview_8
+  - first:
+      213: -3823828487307025121
+    second: Crow Preview_9
+  - first:
+      213: 7864335183024428065
+    second: Crow Preview_10
+  - first:
+      213: 2727522431800774409
+    second: Crow Preview_11
+  - first:
+      213: -4377359376032738666
+    second: Crow Preview_12
+  - first:
+      213: -7142692019155539698
+    second: Crow Preview_13
+  - first:
+      213: -4628324639287047585
+    second: Crow Preview_14
+  - first:
+      213: -3356786171480519686
+    second: Crow Preview_15
+  - first:
+      213: -5493869363712936201
+    second: Crow Preview_16
+  - first:
+      213: -5790874477255703332
+    second: Crow Preview_17
+  - first:
+      213: 7863095034774330656
+    second: Crow Preview_18
+  - first:
+      213: 6730737490660453955
+    second: Crow Preview_19
+  - first:
+      213: 1519181820132502258
+    second: Crow Preview_20
+  - first:
+      213: -238338871776423718
+    second: Crow Preview_21
+  - first:
+      213: 1314462741589478943
+    second: Crow Preview_22
+  - first:
+      213: 1850964264244093152
+    second: Crow Preview_23
+  - first:
+      213: -5477806874389699509
+    second: Crow Preview_24
+  - first:
+      213: -6121975123140979210
+    second: Crow Preview_25
+  - first:
+      213: 4280891155518612115
+    second: Crow Preview_26
+  - first:
+      213: -9187498871131946982
+    second: Crow Preview_27
+  - first:
+      213: -5479557795366303021
+    second: Crow Preview_28
+  - first:
+      213: -8560564344667715611
+    second: Crow Preview_29
+  - first:
+      213: -3850188875502465235
+    second: Crow Preview_30
+  - first:
+      213: 7022306416075544192
+    second: Crow Preview_31
+  - first:
+      213: -7817494430147753924
+    second: Crow Preview_32
+  - first:
+      213: 7711313362363582814
+    second: Crow Preview_33
+  - first:
+      213: -2171307433417016672
+    second: Crow Preview_34
+  - first:
+      213: 3930974430695749330
+    second: Crow Preview_35
+  - first:
+      213: -6857957264136445048
+    second: Crow Preview_36
+  - first:
+      213: -6465437963917425865
+    second: Crow Preview_37
+  - first:
+      213: 2910185269927245646
+    second: Crow Preview_38
+  - first:
+      213: 1553702184890520390
+    second: Crow Preview_39
+  - first:
+      213: -3314440765564201118
+    second: Crow Preview_40
+  - first:
+      213: -350723867251222857
+    second: Crow Preview_41
+  - first:
+      213: 7679933198924823972
+    second: Crow Preview_42
+  - first:
+      213: 5096845077005343677
+    second: Crow Preview_43
+  - first:
+      213: 5219860527565781323
+    second: Crow Preview_44
+  - first:
+      213: -6889531645382340594
+    second: Crow Preview_45
+  - first:
+      213: 1570027589752375118
+    second: Crow Preview_46
+  - first:
+      213: -1878398410467908859
+    second: Crow Preview_47
+  - first:
+      213: -9029588557864917390
+    second: Crow Preview_48
+  - first:
+      213: 2619402956441156687
+    second: Crow Preview_49
+  - first:
+      213: 74443441764670333
+    second: Crow Preview_50
+  - first:
+      213: -1756167963986899803
+    second: Crow Preview_51
+  - first:
+      213: -7862280248768116092
+    second: Crow Preview_52
+  - first:
+      213: 7066056998747036025
+    second: Crow Preview_53
+  - first:
+      213: 6303401104566969126
+    second: Crow Preview_54
+  - first:
+      213: -4625939834179617085
+    second: Crow Preview_55
+  - first:
+      213: -3365554846033382533
+    second: Crow Preview_56
+  - first:
+      213: 8322072055474466257
+    second: Crow Preview_57
+  - first:
+      213: 5733087172953176476
+    second: Crow Preview_58
+  - first:
+      213: -63163722463520685
+    second: Crow Preview_59
+  - first:
+      213: 1878807631323479102
+    second: Crow Preview_60
+  - first:
+      213: 8559272562799094916
+    second: Crow Preview_61
+  - first:
+      213: -6879640026854532047
+    second: Crow Preview_62
+  - first:
+      213: 3812380565171872012
+    second: Crow Preview_63
+  - first:
+      213: 7856091742845778489
+    second: Crow Preview_64
+  - first:
+      213: 8381152254275521585
+    second: Crow Preview_65
+  - first:
+      213: 7055269009964589122
+    second: Crow Preview_66
+  - first:
+      213: 7130657717605793089
+    second: Crow Preview_67
+  - first:
+      213: 8600805873167776465
+    second: Crow Preview_68
+  - first:
+      213: 4882176395111668763
+    second: Crow Preview_69
+  - first:
+      213: -8496494800240858143
+    second: Crow Preview_70
+  - first:
+      213: -2437039294981094978
+    second: Crow Preview_71
+  - first:
+      213: 1258645415341841184
+    second: Crow Preview_72
+  - first:
+      213: -1466889191707579352
+    second: Crow Preview_73
+  - first:
+      213: -505151764411670454
+    second: Crow Preview_74
+  - first:
+      213: 3738820488375982473
+    second: Crow Preview_75
+  - first:
+      213: 285194208717343132
+    second: Crow Preview_76
+  - first:
+      213: 2563141909915498542
+    second: Crow Preview_77
+  - first:
+      213: -5703812827908824893
+    second: Crow Preview_78
+  - first:
+      213: -3156400292369273840
+    second: Crow Preview_79
+  - first:
+      213: 4530831285897807847
+    second: Crow Preview_80
+  - first:
+      213: -3443178699311359456
+    second: Crow Preview_81
+  - first:
+      213: -7537300746217678632
+    second: Crow Preview_82
+  - first:
+      213: 5193666653147548960
+    second: Crow Preview_83
+  - first:
+      213: -5617315235670179546
+    second: Crow Preview_84
+  - first:
+      213: 594161298579542311
+    second: Crow Preview_85
+  - first:
+      213: 3090981528522205414
+    second: Crow Preview_86
+  - first:
+      213: -2848336671743627767
+    second: Crow Preview_87
+  - first:
+      213: -9184831337157735171
+    second: Crow Preview_88
+  - first:
+      213: 8907384568465197816
+    second: Crow Preview_89
+  - first:
+      213: -3162318858098199239
+    second: Crow Preview_90
+  - first:
+      213: 3506620279953634684
+    second: Crow Preview_91
+  - first:
+      213: 8281061959009736052
+    second: Crow Preview_92
+  - first:
+      213: -8315948007557650203
+    second: Crow Preview_93
+  - first:
+      213: -3206661043908086595
+    second: Crow Preview_94
+  - first:
+      213: 3268058958127992859
+    second: Crow Preview_95
+  - first:
+      213: -7193779076707891413
+    second: Crow Preview_96
+  - first:
+      213: -8174354543197559067
+    second: Crow Preview_97
+  - first:
+      213: -1885706900685883363
+    second: Crow Preview_98
+  - first:
+      213: -4661942308715254618
+    second: Crow Preview_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crow Preview_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 764
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba8aa39d6c95de50800000000000000
+      internalID: 6833540004047391422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 764
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94231c35ff8e89a30800000000000000
+      internalID: 4222380833979314761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 764
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd45d3d0e04ec340800000000000000
+      internalID: 4885913980114390478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 764
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b224e48fef2601a0800000000000000
+      internalID: -6843729877969657159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 764
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abda26f6a2b4df8e0800000000000000
+      internalID: -1658086442173026886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 724
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b437e5bf160141160800000000000000
+      internalID: 6995234134228366155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 724
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f41225182e57370800000000000000
+      internalID: 8319804931693432597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 724
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235dd4901e9965db0800000000000000
+      internalID: -4803482760741268174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 724
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3662b3f7a94cbd350800000000000000
+      internalID: 6042639492886242915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 724
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15ab0410480feac0800000000000000
+      internalID: -3823828487307025121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 684
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12417c29e2bb32d60800000000000000
+      internalID: 7864335183024428065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 684
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f0560633b1ad520800000000000000
+      internalID: 2727522431800774409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 684
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692d759f6de7043c0800000000000000
+      internalID: -4377359376032738666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 684
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e096732c37f00ec90800000000000000
+      internalID: -7142692019155539698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 684
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a8b123343e4cfb0800000000000000
+      internalID: -4628324639287047585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 644
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbc5f513cc4a61d0800000000000000
+      internalID: -3356786171480519686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 644
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f63d75ebead1c3b0800000000000000
+      internalID: -5493869363712936201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 644
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd44c44285ea2afa0800000000000000
+      internalID: -5790874477255703332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 644
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d9cde06435f1d60800000000000000
+      internalID: 7863095034774330656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 644
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e68373612686d50800000000000000
+      internalID: 6730737490660453955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 604
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faaa3201d7351510800000000000000
+      internalID: 1519181820132502258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 604
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad059931f0041bcf0800000000000000
+      internalID: -238338871776423718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 604
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e4dee26e8ed3210800000000000000
+      internalID: 1314462741589478943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 604
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e026360132ffa910800000000000000
+      internalID: 1850964264244093152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 604
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b442fcf9babeaf3b0800000000000000
+      internalID: -5477806874389699509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 564
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f55765af006a0ba0800000000000000
+      internalID: -6121975123140979210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 564
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3926cc623d7c86b30800000000000000
+      internalID: 4280891155518612115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 577
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10c0e344727f7080800000000000000
+      internalID: -9187498871131946982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 564
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da08f09733b4f3b0800000000000000
+      internalID: -5479557795366303021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 564
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7c4379514c23980800000000000000
+      internalID: -8560564344667715611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 524
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc38ded91619ac0800000000000000
+      internalID: -3850188875502465235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 524
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086112aca7e347160800000000000000
+      internalID: 7022306416075544192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 525
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38c2711c3ea28390800000000000000
+      internalID: -7817494430147753924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 527
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59876395a6140b60800000000000000
+      internalID: 7711313362363582814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 524
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa7305b467fdd1e0800000000000000
+      internalID: -2171307433417016672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 484
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d673c2ea60ad8630800000000000000
+      internalID: 3930974430695749330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 484
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883665a0434a3d0a0800000000000000
+      internalID: -6857957264136445048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 484
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733806b5d662646a0800000000000000
+      internalID: -6465437963917425865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_38
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 482
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47769c851e036820800000000000000
+      internalID: 2910185269927245646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 484
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643d521c7ebdf8510800000000000000
+      internalID: 1553702184890520390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 444
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267d8733fadb002d0800000000000000
+      internalID: -3314440765564201118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 444
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b65d3e308af12bf0800000000000000
+      internalID: -350723867251222857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 444
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adb4aced8a949a60800000000000000
+      internalID: 7679933198924823972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 444
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb1a12e791abb640800000000000000
+      internalID: 5096845077005343677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 444
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4934aa6e7ba07840800000000000000
+      internalID: 5219860527565781323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 404
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e005c2888777360a0800000000000000
+      internalID: -6889531645382340594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 404
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47c0c646cbd9c510800000000000000
+      internalID: 1570027589752375118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 404
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503e66d09969ee5e0800000000000000
+      internalID: -1878398410467908859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 404
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276a7842c0570b280800000000000000
+      internalID: -9029588557864917390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 404
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c78465c1df95420800000000000000
+      internalID: 2619402956441156687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 364
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b9d367ae9780100800000000000000
+      internalID: 74443441764670333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 364
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acc3a49a86d0a7e0800000000000000
+      internalID: -1756167963986899803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 364
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a4b9715c193e290800000000000000
+      internalID: -7862280248768116092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_53
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 364
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979dafc176daf0260800000000000000
+      internalID: 7066056998747036025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_54
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 364
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623e48268ed2a7750800000000000000
+      internalID: 6303401104566969126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 324
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cef467ea3c5dcfb0800000000000000
+      internalID: -4625939834179617085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 324
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73f512f2b52b41d0800000000000000
+      internalID: -3365554846033382533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_57
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 324
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dda2c53170fd7370800000000000000
+      internalID: 8322072055474466257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_58
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 324
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99f83a9864009f40800000000000000
+      internalID: 5733087172953176476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_59
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 324
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358ded7dde89f1ff0800000000000000
+      internalID: -63163722463520685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 284
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c345a169dd21a10800000000000000
+      internalID: 1878807631323479102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 284
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c23610c05a8c670800000000000000
+      internalID: 8559272562799094916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_62
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 285
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cd6c078db9680a0800000000000000
+      internalID: -6879640026854532047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 287
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c012ca7dceb48e430800000000000000
+      internalID: 3812380565171872012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 285
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ab33711d1760d60800000000000000
+      internalID: 7856091742845778489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 244
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c8e8ce195df4470800000000000000
+      internalID: 8381152254275521585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 244
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240e2cdb8c959e160800000000000000
+      internalID: 7055269009964589122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_67
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 244
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d7ac01a6f25f260800000000000000
+      internalID: 7130657717605793089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_68
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 244
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da32446f533c5770800000000000000
+      internalID: 8600805873167776465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 244
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c9d618099f0c340800000000000000
+      internalID: 4882176395111668763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 204
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eba0bbdef2661a80800000000000000
+      internalID: -8496494800240858143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_71
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 204
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1cbf65ca5ed2ed0800000000000000
+      internalID: -2437039294981094978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_72
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 204
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bdf9f265b977110800000000000000
+      internalID: 1258645415341841184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_73
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 202
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ce8635d0094abe0800000000000000
+      internalID: -1466889191707579352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_74
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 204
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40a49c85275df8f0800000000000000
+      internalID: -505151764411670454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_75
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 164
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9895a90dc65f2e330800000000000000
+      internalID: 3738820488375982473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_76
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 164
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99889e2f9635f300800000000000000
+      internalID: 285194208717343132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_77
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 164
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28fd69acfb129320800000000000000
+      internalID: 2563141909915498542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_78
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 164
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0ad2ff37cf7d0b0800000000000000
+      internalID: -5703812827908824893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_79
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 164
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ce36c48a63234d0800000000000000
+      internalID: -3156400292369273840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 124
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e74a259c0fb0ee30800000000000000
+      internalID: 4530831285897807847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_81
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 124
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ada59373f5730d0800000000000000
+      internalID: -3443178699311359456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_82
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 124
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d89868d7e0266790800000000000000
+      internalID: -7537300746217678632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_83
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 124
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dc6a6cd4c931840800000000000000
+      internalID: 5193666653147548960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_84
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 124
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6214d721e894b02b0800000000000000
+      internalID: -5617315235670179546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_85
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 84
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7215e159d82ee3800800000000000000
+      internalID: 594161298579542311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_86
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 84
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e82cdec25f55ea20800000000000000
+      internalID: 3090981528522205414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_87
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 84
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ea00063eca878d0800000000000000
+      internalID: -2848336671743627767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_88
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 84
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc46daef8ce88080800000000000000
+      internalID: -9184831337157735171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_89
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 84
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa0a2952136d9b70800000000000000
+      internalID: 8907384568465197816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935b984d0cf2d14d0800000000000000
+      internalID: -3162318858098199239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_91
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 44
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7531d4d0940aa030800000000000000
+      internalID: 3506620279953634684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_92
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 44
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47596cd0afd3ce270800000000000000
+      internalID: 8281061959009736052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_93
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 44
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8a8eec851d79c80800000000000000
+      internalID: -8315948007557650203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_94
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 44
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db476ca25c6af73d0800000000000000
+      internalID: -3206661043908086595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_95
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b109048be4a7a5d20800000000000000
+      internalID: 3268058958127992859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_96
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2740344b009a2c90800000000000000
+      internalID: -7193779076707891413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_97
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 4
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6eb904adbde8e80800000000000000
+      internalID: -8174354543197559067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_98
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d187d12909f94d5e0800000000000000
+      internalID: -1885706900685883363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow Preview_99
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aca9a59b247d4fb0800000000000000
+      internalID: -4661942308715254618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crow Preview_0: 6833540004047391422
+      Crow Preview_1: 4222380833979314761
+      Crow Preview_10: 7864335183024428065
+      Crow Preview_11: 2727522431800774409
+      Crow Preview_12: -4377359376032738666
+      Crow Preview_13: -7142692019155539698
+      Crow Preview_14: -4628324639287047585
+      Crow Preview_15: -3356786171480519686
+      Crow Preview_16: -5493869363712936201
+      Crow Preview_17: -5790874477255703332
+      Crow Preview_18: 7863095034774330656
+      Crow Preview_19: 6730737490660453955
+      Crow Preview_2: 4885913980114390478
+      Crow Preview_20: 1519181820132502258
+      Crow Preview_21: -238338871776423718
+      Crow Preview_22: 1314462741589478943
+      Crow Preview_23: 1850964264244093152
+      Crow Preview_24: -5477806874389699509
+      Crow Preview_25: -6121975123140979210
+      Crow Preview_26: 4280891155518612115
+      Crow Preview_27: -9187498871131946982
+      Crow Preview_28: -5479557795366303021
+      Crow Preview_29: -8560564344667715611
+      Crow Preview_3: -6843729877969657159
+      Crow Preview_30: -3850188875502465235
+      Crow Preview_31: 7022306416075544192
+      Crow Preview_32: -7817494430147753924
+      Crow Preview_33: 7711313362363582814
+      Crow Preview_34: -2171307433417016672
+      Crow Preview_35: 3930974430695749330
+      Crow Preview_36: -6857957264136445048
+      Crow Preview_37: -6465437963917425865
+      Crow Preview_38: 2910185269927245646
+      Crow Preview_39: 1553702184890520390
+      Crow Preview_4: -1658086442173026886
+      Crow Preview_40: -3314440765564201118
+      Crow Preview_41: -350723867251222857
+      Crow Preview_42: 7679933198924823972
+      Crow Preview_43: 5096845077005343677
+      Crow Preview_44: 5219860527565781323
+      Crow Preview_45: -6889531645382340594
+      Crow Preview_46: 1570027589752375118
+      Crow Preview_47: -1878398410467908859
+      Crow Preview_48: -9029588557864917390
+      Crow Preview_49: 2619402956441156687
+      Crow Preview_5: 6995234134228366155
+      Crow Preview_50: 74443441764670333
+      Crow Preview_51: -1756167963986899803
+      Crow Preview_52: -7862280248768116092
+      Crow Preview_53: 7066056998747036025
+      Crow Preview_54: 6303401104566969126
+      Crow Preview_55: -4625939834179617085
+      Crow Preview_56: -3365554846033382533
+      Crow Preview_57: 8322072055474466257
+      Crow Preview_58: 5733087172953176476
+      Crow Preview_59: -63163722463520685
+      Crow Preview_6: 8319804931693432597
+      Crow Preview_60: 1878807631323479102
+      Crow Preview_61: 8559272562799094916
+      Crow Preview_62: -6879640026854532047
+      Crow Preview_63: 3812380565171872012
+      Crow Preview_64: 7856091742845778489
+      Crow Preview_65: 8381152254275521585
+      Crow Preview_66: 7055269009964589122
+      Crow Preview_67: 7130657717605793089
+      Crow Preview_68: 8600805873167776465
+      Crow Preview_69: 4882176395111668763
+      Crow Preview_7: -4803482760741268174
+      Crow Preview_70: -8496494800240858143
+      Crow Preview_71: -2437039294981094978
+      Crow Preview_72: 1258645415341841184
+      Crow Preview_73: -1466889191707579352
+      Crow Preview_74: -505151764411670454
+      Crow Preview_75: 3738820488375982473
+      Crow Preview_76: 285194208717343132
+      Crow Preview_77: 2563141909915498542
+      Crow Preview_78: -5703812827908824893
+      Crow Preview_79: -3156400292369273840
+      Crow Preview_8: 6042639492886242915
+      Crow Preview_80: 4530831285897807847
+      Crow Preview_81: -3443178699311359456
+      Crow Preview_82: -7537300746217678632
+      Crow Preview_83: 5193666653147548960
+      Crow Preview_84: -5617315235670179546
+      Crow Preview_85: 594161298579542311
+      Crow Preview_86: 3090981528522205414
+      Crow Preview_87: -2848336671743627767
+      Crow Preview_88: -9184831337157735171
+      Crow Preview_89: 8907384568465197816
+      Crow Preview_9: -3823828487307025121
+      Crow Preview_90: -3162318858098199239
+      Crow Preview_91: 3506620279953634684
+      Crow Preview_92: 8281061959009736052
+      Crow Preview_93: -8315948007557650203
+      Crow Preview_94: -3206661043908086595
+      Crow Preview_95: 3268058958127992859
+      Crow Preview_96: -7193779076707891413
+      Crow Preview_97: -8174354543197559067
+      Crow Preview_98: -1885706900685883363
+      Crow Preview_99: -4661942308715254618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
